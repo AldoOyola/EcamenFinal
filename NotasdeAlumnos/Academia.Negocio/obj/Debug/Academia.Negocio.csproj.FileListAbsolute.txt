@@ -1,0 +1,2 @@
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Negocio\obj\Debug\Academia.Negocio.csproj.AssemblyReference.cache
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Negocio\obj\Debug\Academia.Negocio.csproj.CoreCompileInputs.cache

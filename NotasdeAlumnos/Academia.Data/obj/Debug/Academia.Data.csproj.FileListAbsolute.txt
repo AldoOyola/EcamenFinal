@@ -1,0 +1,9 @@
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Data\obj\Debug\Academia.Data.csproj.AssemblyReference.cache
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Data\obj\Debug\Academia.Data.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Data\bin\Debug\Academia.Data.dll
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Data\bin\Debug\Academia.Data.pdb
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Data\bin\Debug\Academia.Entidades.dll
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Data\bin\Debug\Academia.Entidades.pdb
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Data\obj\Debug\Academia.Data.csproj.CopyComplete
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Data\obj\Debug\Academia.Data.dll
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.Data\obj\Debug\Academia.Data.pdb

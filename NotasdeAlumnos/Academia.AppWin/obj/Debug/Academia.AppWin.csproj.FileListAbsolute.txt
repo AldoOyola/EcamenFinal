@@ -1,0 +1,11 @@
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.AppWin\bin\Debug\Academia.AppWin.exe.config
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.AppWin\bin\Debug\Academia.AppWin.exe
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.AppWin\bin\Debug\Academia.AppWin.pdb
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.AppWin\obj\Debug\Academia.AppWin.csproj.AssemblyReference.cache
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.AppWin\obj\Debug\Academia.AppWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.AppWin\obj\Debug\Academia.AppWin.frmAlumnos.resources
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.AppWin\obj\Debug\Academia.AppWin.Properties.Resources.resources
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.AppWin\obj\Debug\Academia.AppWin.csproj.GenerateResource.cache
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.AppWin\obj\Debug\Academia.AppWin.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.AppWin\obj\Debug\Academia.AppWin.exe
+C:\Users\alexa\Downloads\ExamenFinal\NotasdeAlumnos\Academia.AppWin\obj\Debug\Academia.AppWin.pdb
